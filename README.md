@@ -1,3 +1,4 @@
-# ror2premoddedserver
+# Risk of Rain 2 Premodded Server
 
-this server was made
+This project is currently under construction, come back another time
+
